@@ -1,0 +1,5 @@
+﻿{
+  "logLevel": "Debug",
+  "logger": "Console",
+  "gameDataPath": "D:\\GOG\\Wolfenstein 3D"
+}
